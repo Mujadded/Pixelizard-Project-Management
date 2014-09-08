@@ -1,0 +1,1 @@
+/Applications/XAMPP/xamppfiles/htdocs/projects/pixelizard/app/views/users/show.blade.php

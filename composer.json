@@ -8,7 +8,8 @@
 		"cartalyst/sentry": "2.1.*"
 	},
 	"require-dev": {
-    	"way/generators": "~2.0"
+    	"way/generators": "~2.0",
+    	"fzaninotto/faker": "v1.3.0"
 	},
 
 	"autoload": {
